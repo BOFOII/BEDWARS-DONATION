@@ -1,0 +1,49 @@
+name: NewBedwars
+api: 5.0.0
+version: 1.0.0
+main: bofoiii\bedwars\BedWars
+authors:
+  - NaufalCream
+  - ItsRealNise
+  - SandhyR
+  - MadeAja
+  - XanderID
+  - AzniDev
+  - FanDev
+  - AraaCuteUwU
+
+permissions:
+  newbedwars:
+    default: op
+  newbedwars.cmd.setup:
+    default: op
+  newbedwars.cmd.enable:
+    default: op
+  newbedwars.cmd.disable:
+    default: op
+  newbedwars.cmd.delete:
+    default: op
+  newbedwars.cmd.setwaitingspawn:
+    default: op
+  newbedwars.cmd.dragonpos:
+    default: op
+  newbedwars.cmd.autocreateteams:
+    default: op
+  newbedwars.cmd.createteam:
+    default: op
+  newbedwars.cmd.removeteam:
+    default: op
+  newbedwars.cmd.setspawn:
+    default: op
+  newbedwars.cmd.setbed:
+    default: op
+  newbedwars.cmd.setshop:
+    default: op
+  newbedwars.cmd.setupgrade:
+    default: op
+  newbedwars.cmd.settype:
+    default: op
+  newbedwars.cmd.addgenerator:
+    default: op
+  newbedwars.cmd.save:
+    default: op

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="71923706-773f-4506-af93-7cefff7fc3e4" name="NaufalTesting">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="103.185.44.203" port="22" sshConfigId="53515c4b-a21c-4200-a8df-35300582824a" sshConfig="root@103.185.44.203:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
